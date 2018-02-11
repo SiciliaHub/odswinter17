@@ -1,2 +1,2 @@
 Hallo World!
-(odswinter17/presentazioni/scat.pdf)
+(./presentazioni/scat.pdf)
