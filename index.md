@@ -1,3 +1,5 @@
+![ODSWinter17_Cover](./immagini/patti_ods_winter_2017.jpg)
+
 ### Programma dei lavori svoltisi durante il Raduno Invernale di Open Data Sicilia del 30/12/2017 a Patti
 
 ##### - G. Pirrotta, A. Borruso - La "datificazione” degli alert della protezione civile regionale: un prototipo; <a href="./presentazioni/La_datificazione_degli_alert_della_protezione_civile_regionale.pdf" target="_blank"><b>slide</b></a> | <a href="./presentazioni/allerta-previsione-protezione-civile.pdf" target="_blank"><b>slide</b></a>
