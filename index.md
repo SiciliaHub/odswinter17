@@ -11,3 +11,8 @@
 ##### - G. Pirrotta, D. Taibi - Un’ontologia dell’Assemblea Regionale Siciliana: il web semantico a supporto del civic hacking;
 
 ##### - Open Data Sicilia: riflessioni e obiettivi per il 2018 (e oltre).
+
+<hr>
+[ODSWinter17](http://opendatasicilia.it/2018/02/14/odswinter17/)
+
+[#odswinter17](https://twitter.com/hashtag/odswinter17)
