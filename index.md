@@ -8,7 +8,7 @@
 
 ##### - G. Ragusa, G. Pirrotta - FOIAPop: il punto su uno strumento che sta diventando realmente popolare; <a href="./presentazioni/Foiapop_odswinter17.pdf" target="_blank"><b>slide</b></a>
 
-##### - G. Pirrotta, D. Taibi - Un’ontologia dell’Assemblea Regionale Siciliana: il web semantico a supporto del civic hacking;
+##### - G. Pirrotta, D. Taibi - Un’ontologia dell’Assemblea Regionale Siciliana: il web semantico a supporto del civic hacking; <a href="./presentazioni/openARS.pdf" target="_blank"><b>slide</b></a>
 
 ##### - Open Data Sicilia: riflessioni e obiettivi per il 2018 (e oltre).
 
